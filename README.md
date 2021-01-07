@@ -1,3 +1,6 @@
 # github-tutorial
 a simple github tutorial 
-Dexter Again 
+=========================
+## Adding Names 
+=========================
+Dexter Antonio
