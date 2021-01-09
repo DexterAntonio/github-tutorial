@@ -1,6 +1,3 @@
-# github-tutorial
-a simple github tutorial 
-=========================
-## Adding Names 
-=========================
-Dexter Antonio
+# Simple Git/Github Tutorial 
+## List of People who have completed the tutorial
+1. Dexter Antonio
